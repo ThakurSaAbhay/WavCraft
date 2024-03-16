@@ -1,7 +1,7 @@
 
 <h1>
   <br>
-  EdVerse
+  WavCraft
   <br>
 </h1>
 
