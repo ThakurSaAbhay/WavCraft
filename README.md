@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 >A ML application which uses GAM and input form generative audio model.</h4>
+<h4 >A ML application which uses GAN and input form generative audio model.</h4>
 
   [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/WavCraft?style=for-the-badge)](https://github.com/ThakurSaAbhay/WavCraft)
   [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/WavCraft?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/WavCraft)
