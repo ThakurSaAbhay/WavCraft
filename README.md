@@ -20,7 +20,7 @@
 ## Key Features
 
 * Lightweight.
-* Uses GAM.
+* Uses GAN.
 * Takes input from generative audio model.
 * Multilingual output audio file.
 * Translates slangs into proper meaning too.
@@ -35,7 +35,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and go
 $ git clone https://github.com/ThakurSaAbhay/WavCraft
 
 ```
-and open the cloned folder with Android Studio.
+and open the cloned folder with Google colab.
 
 ## About
 
