@@ -39,7 +39,7 @@ and open the cloned folder with Google colab.
 
 ## About
 
-This is a machine learning application which uses GAM vocoder of nvidea and using tokens of generative audio model. It also translates slangs to their meaning into different languages too like russian, hindi, chinese etc.
+This is a machine learning application which uses GAN vocoder of nvidea and using tokens of generative audio model. It also translates slangs to their meaning into different languages too like russian, hindi, chinese etc.
 
 
 ## You may also like...
